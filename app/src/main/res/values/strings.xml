@@ -1,0 +1,166 @@
+<resources>
+    <string name="app_name">Guess The Word</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="title_greeting">Hello!\nDo you want play the game?\nPress the start button!</string>
+    <string name="start">Start</string>
+    <string name="game_help">Without using speech, explain the word …</string>
+    <string name="game_guessed">Guessed</string>
+    <string name="game_skip">Skip</string>
+    <string name="score_total_score">Total score\n %d</string>
+    <string name="label_game">The game started</string>
+    <string name="label_score">Game over</string>
+    <string name="guessed_words">Guessed words: %s</string>
+    <string name="skipped_words">Skipped words: %s</string>
+
+    <string name="game_const_game_just_started">gameJustStarted</string>
+
+
+    <string-array name="word_list">
+        <item>action</item>
+        <item>activity</item>
+        <item>age</item>
+        <item>air</item>
+        <item>area</item>
+        <item>authority</item>
+        <item>bank</item>
+        <item>body</item>
+        <item>book</item>
+        <item>building</item>
+        <item>business</item>
+        <item>car</item>
+        <item>case</item>
+        <item>centre</item>
+        <item>century</item>
+        <item>change</item>
+        <item>child</item>
+        <item>city</item>
+        <item>community</item>
+        <item>company</item>
+        <item>condition</item>
+        <item>control</item>
+        <item>country</item>
+        <item>course</item>
+        <item>court</item>
+        <item>day</item>
+        <item>decision</item>
+        <item>development</item>nt
+        <item>door</item>
+        <item>education</item>
+        <item>effect</item>
+        <item>end</item>
+        <item>example</item>
+        <item>experience</item>e
+        <item>eye</item>
+        <item>face</item>
+        <item>fact</item>
+        <item>family</item>
+        <item>father</item>
+        <item>field</item>
+        <item>figure</item>
+        <item>food</item>
+        <item>form</item>
+        <item>friend</item>
+        <item>game</item>
+        <item>girl</item>
+        <item>government</item>t
+        <item>group</item>
+        <item>hand</item>
+        <item>head</item>
+        <item>health</item>
+        <item>history</item>
+        <item>home</item>
+        <item>hour</item>
+        <item>house</item>
+        <item>idea</item>
+        <item>industry</item>
+        <item>information</item>on
+        <item>interest</item>
+        <item>job</item>
+        <item>kid</item>
+        <item>language</item>
+        <item>law</item>
+        <item>level</item>
+        <item>life</item>
+        <item>line</item>
+        <item>man</item>
+        <item>manager</item>
+        <item>manner</item>
+        <item>market</item>
+        <item>million</item>
+        <item>mind</item>
+        <item>minute</item>
+        <item>moment</item>
+        <item>money</item>
+        <item>month</item>
+        <item>morning</item>
+        <item>mother</item>
+        <item>name</item>
+        <item>need</item>
+        <item>night</item>
+        <item>number</item>
+        <item>office</item>
+        <item>opportunity</item>ty
+        <item>order</item>
+        <item>paper</item>
+        <item>parent</item>
+        <item>part</item>
+        <item>party</item>
+        <item>people</item>
+        <item>period</item>
+        <item>person</item>
+        <item>place</item>
+        <item>plan</item>
+        <item>point</item>
+        <item>police</item>
+        <item>policy</item>
+        <item>position</item>
+        <item>power</item>
+        <item>president</item>
+        <item>price</item>
+        <item>problem</item>
+        <item>process</item>
+        <item>programme</item>
+        <item>project</item>
+        <item>quality</item>
+        <item>question</item>
+        <item>reason</item>
+        <item>relations</item>hip
+        <item>report</item>
+        <item>research</item>
+        <item>result</item>
+        <item>road</item>
+        <item>room</item>
+        <item>school</item>
+        <item>sense</item>
+        <item>service</item>
+        <item>side</item>
+        <item>society</item>
+        <item>staff</item>
+        <item>story</item>
+        <item>street</item>
+        <item>student</item>
+        <item>study</item>
+        <item>support</item>
+        <item>system</item>
+        <item>table</item>
+        <item>teacher</item>
+        <item>team</item>
+        <item>term</item>
+        <item>thing</item>
+        <item>time</item>
+        <item>type</item>
+        <item>use</item>
+        <item>view</item>
+        <item>war</item>
+        <item>water</item>
+        <item>way</item>
+        <item>week</item>
+        <item>woman</item>
+        <item>word</item>
+        <item>work</item>
+        <item>world</item>
+        <item>year</item>
+    </string-array>
+</resources>
